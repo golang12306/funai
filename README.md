@@ -2,8 +2,9 @@
 
 用最少的代码，感受 AI 的核心原理。
 
-系列文章：
-- [一个 write() 调用，x86 背后翻了什么跟头？](https://mp.weixin.qq.com/s?__biz=MzAxMjQwMjA5NQ==&mid=501991973) - 系统调用与 AI Agent 的关系
+![公众号合集二维码](qr-funai-album.png)
+
+👉 [公众号合集：FunAI](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxMjQwMjA5NQ==&action=getalbum&album_id=3334216403570196480#wechat_redirect)
 
 ## 项目列表
 
